@@ -4,3 +4,4 @@ __pycache__
 venv
 out
 dist
+word-embeddings-pipeline/.ipynb_checkpoints
