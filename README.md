@@ -24,14 +24,14 @@ We will then use pre-trained word embeddings from the standard
 __word2vc__ implementation by _Google_ and show how we can perform PCA (Principal 
 Component Analysis) on our word embeddings. We also show how to perform logical 
 comparisons and Language Translation using word embeddings in 
-[this Notebook](using-pretrained-word-embeddings/).
+[this Notebook](using-pretrained-word-embeddings/using-pre-trained-word-embeddings.ipynb).
 
 ## Overview
 
 The following steps have been followed in the overall pipeline:
 1. [Generating the Word Embeddings Using CBoW Model: An Overview](word-embeddings-pipeline/word-embeddings-full-pipeline.ipynb)
 1. [Generating Word Embeddings from a Corpus](generating-word-embeddings/generating-word-embeddings.ipynb)
-1. [Performing PCA (Principal Component Analysis on Word Embeddings)]()
+1. [Performing PCA (Principal Component Analysis on Word Embeddings)](using-pretrained-word-embeddings/using-pre-trained-word-embeddings.ipynb)
 
 ## Further Reading
 1. [Speech and Language Processing ~Jurafsky](https://web.stanford.edu/~jurafsky/slp3/)
