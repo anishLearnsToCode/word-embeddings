@@ -4,7 +4,6 @@ from collections import defaultdict
 
 
 def sigmoid(z):
-    # sigmoid function
     return 1.0 / (1.0 + np.exp(-z))
 
 
@@ -105,7 +104,6 @@ def get_dict(data):
         Ind2Word: returns dictionary mapping the index to its word
     """
     words = sorted(list(set(data)))
-    n = len(words)
     idx = 0
     word2Ind = {}
     Ind2word = {}

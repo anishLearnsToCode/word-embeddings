@@ -16,7 +16,7 @@ We will first introduce the Continuous Bag of Words (CBoW) Model in
 [this Jupyter Notebook](word-embeddings-pipeline/word-embeddings-full-pipeline.ipynb)
 and then implement it on a small dataset consisting of textual data from Shakespeare
 Novels and create word embeddings for a few words
-[in this Notebook](generating-word-embeddings/assignment-word-embeddings.ipynb).
+[in this Notebook](generating-word-embeddings/generating-word-embeddings.ipynb).
 
 ![model-architecture](assets/cbow_model_architecture.png)
 
@@ -29,8 +29,8 @@ comparisons and Language Translation using word embeddings in
 ## Overview
 
 The following steps have been followed in the overall pipeline:
-1. [Generating the Word Embeddings Using CBoW Model: An Overview]()
-1. [Generating Word Embeddings from a Corpus]()
+1. [Generating the Word Embeddings Using CBoW Model: An Overview](word-embeddings-pipeline/word-embeddings-full-pipeline.ipynb)
+1. [Generating Word Embeddings from a Corpus](generating-word-embeddings/generating-word-embeddings.ipynb)
 1. [Performing PCA (Principal Component Analysis on Word Embeddings)]()
 
 ## Further Reading
