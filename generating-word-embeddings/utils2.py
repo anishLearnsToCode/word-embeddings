@@ -55,7 +55,6 @@ def get_batches(data, word2Ind, V, C, batch_size):
             batch_y.append(y)
         else:
             yield np.array(batch_x).T, np.array(batch_y).T
-            batch = []
 
 
 def compute_pca(data, n_components=2):

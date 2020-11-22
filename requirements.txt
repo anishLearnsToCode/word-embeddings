@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scipy
+nltk
+emoji
+pandas
+gensim
